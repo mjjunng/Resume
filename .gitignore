@@ -9,7 +9,7 @@ build/
 src/main/resources/static/css
 src/main/resources/static/img
 src/main/resources/static/js
-
+src/main/resources/application.properties
 ### STS ###
 .apt_generated
 .classpath
