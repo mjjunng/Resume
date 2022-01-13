@@ -9,6 +9,8 @@ build/
 src/main/resources/static/css
 src/main/resources/static/img
 src/main/resources/static/js
+
+## application.properties
 src/main/resources/application.properties
 ### STS ###
 .apt_generated
